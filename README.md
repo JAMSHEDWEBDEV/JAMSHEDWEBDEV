@@ -23,7 +23,7 @@ Beyond writing code, I'm an avid advocate for user-centric design, striving to c
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
 
-📶 Connect With Me! <br/>
+📶 <div font="bold" text="blue">Connect With Me!<div/> <br/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -45,10 +45,10 @@ Beyond writing code, I'm an avid advocate for user-centric design, striving to c
 [![trophy](https://github-profile-trophy.vercel.app/?username=JAMSHEDWEBDEV)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAMSHEDWEBDEV)](https://github.com/anuraghazra/github-readme-stats)
-<hr/>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JAMSHEDWEBDEV&show_icons=true&count_private=true)  
-<hr/>
+
 ![GitHub metrics](https://metrics.lecoq.io/JAMSHEDWEBDEV)  
-<hr/>
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=JAMSHEDWEBDEV)  
 
