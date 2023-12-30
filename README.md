@@ -44,8 +44,9 @@ Beyond writing code, I'm an avid advocate for user-centric design, striving to c
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JAMSHEDWEBDEV)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAMSHEDWEBDEV)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAMSHEDWEBDEV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+### :fire: My Stats : <br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JAMSHEDWEBDEV&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/JAMSHEDWEBDEV)  
