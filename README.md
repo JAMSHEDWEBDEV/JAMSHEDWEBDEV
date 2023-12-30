@@ -8,6 +8,7 @@ Hello! I'm Jamshed, a passionate front-end developer dedicated to crafting excep
 My journey in web development has allowed me to delve into various technologies, including HTML5, CSS3, Tailwindcss, JavaScript, and popular frameworks like React. I thrive on the challenge of staying updated with emerging trends and technologies to deliver innovative solutions that meet both user needs and business objectives.
 
 Beyond writing code, I'm an avid advocate for user-centric design, striving to create intuitive interfaces that resonate with audiences and enhance usability. I thrive in collaborative environments, leveraging strong communication skills to work seamlessly with cross-functional teams and bring projects from concept to fruition.
+<hr/>
 
 🏆 Skills and Experience : <br/> 
 ✅ HTML <br/> 
@@ -22,7 +23,7 @@ Beyond writing code, I'm an avid advocate for user-centric design, striving to c
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
 
-📶 <h1 font="bold"> Connect With Me <h1/>!
+📶 <h2 font="bold" text="black"> Connect With Me <h2/>! <br/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -37,6 +38,7 @@ Beyond writing code, I'm an avid advocate for user-centric design, striving to c
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>  
+<hr/> <br/>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
