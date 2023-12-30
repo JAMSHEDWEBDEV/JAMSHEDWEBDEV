@@ -1,6 +1,7 @@
 ![I am Front-End Developer](https://i.ibb.co/tXrvRd9/github-banner.png)
-# Hi there 👋, I'm Jamshed
-## I am Front-End Developer
+# Hi, I'm Jamshed 👋 <br/>
+##💻 I am Front-End Developer <br/>
+##❤ Love to Write Code 
 
 Hello! I'm Jamshed, a passionate front-end developer dedicated to crafting exceptional user experiences through clean and efficient code. With 3 year of hands-on experience, I specialize in turning design concepts into responsive and interactive web applications.
 
@@ -8,7 +9,13 @@ My journey in web development has allowed me to delve into various technologies,
 
 Beyond writing code, I'm an avid advocate for user-centric design, striving to create intuitive interfaces that resonate with audiences and enhance usability. I thrive in collaborative environments, leveraging strong communication skills to work seamlessly with cross-functional teams and bring projects from concept to fruition.
 
-Skills:  Html / Css / Tailwindcss / Bootstrap / JavaScript / React
+#🏆 Skills and Experience : <br/> 
+#✅ HTML 
+#✅ CSS 
+#✅ Tailwindcss
+#✅ Bootstrap 
+#✅ JavaScript 
+#✅ React
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript, nextjs 
