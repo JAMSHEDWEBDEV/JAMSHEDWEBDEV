@@ -10,7 +10,7 @@ My journey in web development has allowed me to delve into various technologies,
 Beyond writing code, I'm an avid advocate for user-centric design, striving to create intuitive interfaces that resonate with audiences and enhance usability. I thrive in collaborative environments, leveraging strong communication skills to work seamlessly with cross-functional teams and bring projects from concept to fruition.
 <hr/>
 
-🏆 Skills and Experience : <br/><br/>
+🏆 ### :🎆: Skills and Experience : <br/><br/>
 ✅ HTML <br/> 
 ✅ CSS <br/>
 ✅ Tailwindcss <br/>
