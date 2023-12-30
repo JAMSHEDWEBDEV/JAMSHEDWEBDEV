@@ -1,15 +1,32 @@
-### Hi there 👋
+![I am Front-End Developer](https://i.ibb.co/tXrvRd9/github-banner.png)
+# Hi there 👋, I'm Jamshed
+## I am Front-End Developer
 
-**JAMSHEDWEBDEV/JAMSHEDWEBDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Jamshed, a passionate front-end developer dedicated to crafting exceptional user experiences through clean and efficient code. With 3 year of hands-on experience, I specialize in turning design concepts into responsive and interactive web applications.
 
-Here are some ideas to get you started:
+My journey in web development has allowed me to delve into various technologies, including HTML5, CSS3, Tailwindcss, JavaScript, and popular frameworks like React. I thrive on the challenge of staying updated with emerging trends and technologies to deliver innovative solutions that meet both user needs and business objectives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Beyond writing code, I'm an avid advocate for user-centric design, striving to create intuitive interfaces that resonate with audiences and enhance usability. I thrive in collaborative environments, leveraging strong communication skills to work seamlessly with cross-functional teams and bring projects from concept to fruition.
+
+Skills:  Html / Css / Tailwindcss / Bootstrap / JavaScript / React
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning JavaScript, nextjs 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about Web Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JAMSHEDWEBDEV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Mdjamshedmia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@mdjamshedmia3038)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JAMSHEDWEBDEV)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAMSHEDWEBDEV)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JAMSHEDWEBDEV&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/JAMSHEDWEBDEV)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=JAMSHEDWEBDEV)  
 
